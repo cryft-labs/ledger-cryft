@@ -1,6 +1,6 @@
 # ledger-avalanche-go
 
-[![Test](https://github.com/ava-labs/ledger-avalanche/actions/workflows/test.yml/badge.svg)](https://github.com/ava-labs/ledger-avalanche/actions/workflows/test.yml)
+[![Test](https://github.com/cryft-labs/ledger-avalanche/actions/workflows/test.yml/badge.svg)](https://github.com/cryft-labs/ledger-avalanche/actions/workflows/test.yml)
 
 ---
 
